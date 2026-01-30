@@ -10,8 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Salesforce Admin Projects 
-- 📫 My email is gosheararso@gmail.com
-- 🌱 I’m currently learning Salesforce
+- 📫 My email is gosheararso@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can cut hair
 -->
